@@ -1272,8 +1272,125 @@
         ]
     },
     "categories": {
-        "genre_m3u_link": "https://raw.githubusercontent.com/laurentjuma/m3u-radio-music-playlists/main/you_radio/m3u/stations/",
-        "logo_link": "https://manager.uber.radio/static/uploads/",
-        "genres": []
+        "genre_m3u_link": "https://iptv-org.github.io/iptv/categories/",
+        "logo_link": "https://avatars.githubusercontent.com/u/55937028?s=200&v=4",
+        "genres": [
+            {
+                "name": "Top Picks",
+                "genre_m3u_id": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/iptvm3u/top_picks.m3u"
+            },
+            {
+                "name": "Animation",
+                "genre_m3u_id": "animation.m3u"
+            },
+            {
+                "name": "Auto",
+                "genre_m3u_id": "auto.m3u"
+            },
+            {
+                "name": "Business",
+                "genre_m3u_id": "business.m3u"
+            },
+            {
+                "name": "Classic",
+                "genre_m3u_id": "classic.m3u"
+            },
+            {
+                "name": "Comedy",
+                "genre_m3u_id": "comedy.m3u"
+            },
+            {
+                "name": "Cooking",
+                "genre_m3u_id": "cooking.m3u"
+            },
+            {
+                "name": "Culture",
+                "genre_m3u_id": "culture.m3u"
+            },
+            {
+                "name": "Documentary",
+                "genre_m3u_id": "documentary.m3u"
+            },
+            {
+                "name": "Education",
+                "genre_m3u_id": "education.m3u"
+            },
+            {
+                "name": "Entertainment",
+                "genre_m3u_id": "entertainment.m3u"
+            },
+            {
+                "name": "Family",
+                "genre_m3u_id": "family.m3u"
+            },
+            {
+                "name": "General",
+                "genre_m3u_id": "general.m3u"
+            },
+            {
+                "name": "Kids",
+                "genre_m3u_id": "kids.m3u"
+            },
+            {
+                "name": "Legislative",
+                "genre_m3u_id": "legislative.m3u"
+            },
+            {
+                "name": "Lifestyle",
+                "genre_m3u_id": "lifestyle.m3u"
+            },
+            {
+                "name": "Movies",
+                "genre_m3u_id": "movies.m3u"
+            },
+            {
+                "name": "Music",
+                "genre_m3u_id": "music.m3u"
+            },
+            {
+                "name": "News",
+                "genre_m3u_id": "news.m3u"
+            },
+            {
+                "name": "Outdoor",
+                "genre_m3u_id": "outdoor.m3u"
+            },
+            {
+                "name": "Relax",
+                "genre_m3u_id": "relax.m3u"
+            },
+            {
+                "name": "Religious",
+                "genre_m3u_id": "religious.m3u"
+            },
+            {
+                "name": "Science",
+                "genre_m3u_id": "science.m3u"
+            },
+            {
+                "name": "Series",
+                "genre_m3u_id": "series.m3u"
+            },
+            {
+                "name": "Shop",
+                "genre_m3u_id": "shop.m3u"
+            },
+            {
+                "name": "Sports",
+                "genre_m3u_id": "sports.m3u"
+            },
+            {
+                "name": "Travel",
+                "genre_m3u_id": "travel.m3u"
+            },
+            {
+                "name": "Weather",
+                "genre_m3u_id": "weather.m3u"
+            },
+            {
+                "name": "Others",
+                "genre_m3u_id": "undefined.m3u"
+            }
+        ]
     }
 }
