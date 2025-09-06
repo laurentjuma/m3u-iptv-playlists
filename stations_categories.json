@@ -325,8 +325,7 @@
             {
                 "name": "England",
                 "logo": "england",
-                "code": "GB-ENG",
-                "genre_m3u_id": "gb-eng.m3u"
+                "code": "GB-ENG"
             },
             {
                 "name": "Equatorial Guinea",
@@ -828,8 +827,7 @@
             {
                 "name": "Northern Ireland",
                 "logo": "northern-ireland",
-                "code": "GB-NIR",
-                "genre_m3u_id": "gb-nir.m3u"
+                "code": "GB-NIR"
             },
             {
                 "name": "Northern Mariana Islands",
@@ -984,8 +982,7 @@
             {
                 "name": "Scotland",
                 "logo": "scotland",
-                "code": "GB-SCT",
-                "genre_m3u_id": "gb-sct.m3u"
+                "code": "GB-SCT"
             },
             {
                 "name": "Senegal",
@@ -1205,7 +1202,7 @@
             },
             {
                 "name": "United States",
-                "logo": "united-states",
+                "logo": "united-states-of-america",
                 "code": "US",
                 "genre_m3u_id": "us.m3u"
             },
