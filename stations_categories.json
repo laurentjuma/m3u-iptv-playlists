@@ -1,0 +1,1279 @@
+{
+    "countries": {
+        "logo_link": "https://cdn.countryflags.com/thumbs/",
+        "logo_size": "/flag-square-500.png",
+        "genre_m3u_link": "https://iptv-org.github.io/iptv/countries/",
+        "genres": [
+            {
+                "name": "Afghanistan",
+                "logo": "afghanistan",
+                "code": "AF",
+                "genre_m3u_id": "af.m3u"
+            },
+            {
+                "name": "Albania",
+                "logo": "albania",
+                "code": "AL",
+                "genre_m3u_id": "al.m3u"
+            },
+            {
+                "name": "Algeria",
+                "logo": "algeria",
+                "code": "DZ",
+                "genre_m3u_id": "dz.m3u"
+            },
+            {
+                "name": "Angola",
+                "logo": "angola",
+                "code": "AO",
+                "genre_m3u_id": "ao.m3u"
+            },
+            {
+                "name": "Antigua and Barbuda",
+                "logo": "antigua-and-barbuda",
+                "code": "AG",
+                "genre_m3u_id": "ag.m3u"
+            },
+            {
+                "name": "Argentina",
+                "logo": "argentina",
+                "code": "AR",
+                "genre_m3u_id": "ar.m3u"
+            },
+            {
+                "name": "Armenia",
+                "logo": "armenia",
+                "code": "AM",
+                "genre_m3u_id": "am.m3u"
+            },
+            {
+                "name": "Australia",
+                "logo": "australia",
+                "code": "AU",
+                "genre_m3u_id": "au.m3u"
+            },
+            {
+                "name": "Austria",
+                "logo": "austria",
+                "code": "AT",
+                "genre_m3u_id": "at.m3u"
+            },
+            {
+                "name": "Azerbaijan",
+                "logo": "azerbaijan",
+                "code": "AZ",
+                "genre_m3u_id": "az.m3u"
+            },
+            {
+                "name": "Bahamas",
+                "logo": "bahamas",
+                "code": "BS",
+                "genre_m3u_id": "bs.m3u"
+            },
+            {
+                "name": "Bahrain",
+                "logo": "bahrain",
+                "code": "BH",
+                "genre_m3u_id": "bh.m3u"
+            },
+            {
+                "name": "Bangladesh",
+                "logo": "bangladesh",
+                "code": "BD",
+                "genre_m3u_id": "bd.m3u"
+            },
+            {
+                "name": "Barbados",
+                "logo": "barbados",
+                "code": "BB",
+                "genre_m3u_id": "bb.m3u"
+            },
+            {
+                "name": "Belarus",
+                "logo": "belarus",
+                "code": "BY",
+                "genre_m3u_id": "by.m3u"
+            },
+            {
+                "name": "Belgium",
+                "logo": "belgium",
+                "code": "BE",
+                "genre_m3u_id": "be.m3u"
+            },
+            {
+                "name": "Belize",
+                "logo": "belize",
+                "code": "BZ",
+                "genre_m3u_id": "bz.m3u"
+            },
+            {
+                "name": "Benin",
+                "logo": "benin",
+                "code": "BJ",
+                "genre_m3u_id": "bj.m3u"
+            },
+            {
+                "name": "Bhutan",
+                "logo": "bhutan",
+                "code": "BT",
+                "genre_m3u_id": "bt.m3u"
+            },
+            {
+                "name": "Bolivia",
+                "logo": "bolivia",
+                "code": "BO",
+                "genre_m3u_id": "bo.m3u"
+            },
+            {
+                "name": "Bosnia and Herzegovina",
+                "logo": "bosnia-and-herzegovina",
+                "code": "BA",
+                "genre_m3u_id": "ba.m3u"
+            },
+            {
+                "name": "Botswana",
+                "logo": "botswana",
+                "code": "BW",
+                "genre_m3u_id": "bw.m3u"
+            },
+            {
+                "name": "Brazil",
+                "logo": "brazil",
+                "code": "BR",
+                "genre_m3u_id": "br.m3u"
+            },
+            {
+                "name": "Brunei",
+                "logo": "brunei",
+                "code": "BN",
+                "genre_m3u_id": "bn.m3u"
+            },
+            {
+                "name": "Bulgaria",
+                "logo": "bulgaria",
+                "code": "BG",
+                "genre_m3u_id": "bg.m3u"
+            },
+            {
+                "name": "Burkina Faso",
+                "logo": "burkina-faso",
+                "code": "BF",
+                "genre_m3u_id": "bf.m3u"
+            },
+            {
+                "name": "Burundi",
+                "logo": "burundi",
+                "code": "BI",
+                "genre_m3u_id": "bi.m3u"
+            },
+            {
+                "name": "Cambodia",
+                "logo": "cambodia",
+                "code": "KH",
+                "genre_m3u_id": "kh.m3u"
+            },
+            {
+                "name": "Cameroon",
+                "logo": "cameroon",
+                "code": "CM",
+                "genre_m3u_id": "cm.m3u"
+            },
+            {
+                "name": "Canada",
+                "logo": "canada",
+                "code": "CA",
+                "genre_m3u_id": "ca.m3u"
+            },
+            {
+                "name": "Cape Verde",
+                "logo": "cape-verde",
+                "code": "CV",
+                "genre_m3u_id": "cv.m3u"
+            },
+            {
+                "name": "Central-African Republic",
+                "logo": "central-african-republic",
+                "code": "CF",
+                "genre_m3u_id": "cf.m3u"
+            },
+            {
+                "name": "Chad",
+                "logo": "chad",
+                "code": "TD",
+                "genre_m3u_id": "td.m3u"
+            },
+            {
+                "name": "Chile",
+                "logo": "chile",
+                "code": "CL",
+                "genre_m3u_id": "cl.m3u"
+            },
+            {
+                "name": "China",
+                "logo": "china",
+                "code": "CN",
+                "genre_m3u_id": "cn.m3u"
+            },
+            {
+                "name": "Colombia",
+                "logo": "colombia",
+                "code": "CO",
+                "genre_m3u_id": "co.m3u"
+            },
+            {
+                "name": "Comoros",
+                "logo": "comoros",
+                "code": "KM",
+                "genre_m3u_id": "km.m3u"
+            },
+            {
+                "name": "Congo, Democratic Republic of the",
+                "logo": "congo-democratic-republic",
+                "code": "CD",
+                "genre_m3u_id": "cd.m3u"
+            },
+            {
+                "name": "Congo, Republic of the",
+                "logo": "congo-republic",
+                "code": "CG",
+                "genre_m3u_id": "cg.m3u"
+            },
+            {
+                "name": "Costa Rica",
+                "logo": "costa-rica",
+                "code": "CR",
+                "genre_m3u_id": "cr.m3u"
+            },
+            {
+                "name": "Cote d' Ivoire",
+                "logo": "cote-divoire",
+                "code": "CI",
+                "genre_m3u_id": "ci.m3u"
+            },
+            {
+                "name": "Croatia",
+                "logo": "croatia",
+                "code": "HR",
+                "genre_m3u_id": "hr.m3u"
+            },
+            {
+                "name": "Cuba",
+                "logo": "cuba",
+                "code": "CU",
+                "genre_m3u_id": "cu.m3u"
+            },
+            {
+                "name": "Cyprus",
+                "logo": "cyprus",
+                "code": "CY",
+                "genre_m3u_id": "cy.m3u"
+            },
+            {
+                "name": "Czech Republic",
+                "logo": "czech-republic",
+                "code": "CZ",
+                "genre_m3u_id": "cz.m3u"
+            },
+            {
+                "name": "Denmark",
+                "logo": "denmark",
+                "code": "DK",
+                "genre_m3u_id": "dk.m3u"
+            },
+            {
+                "name": "Djibouti",
+                "logo": "djibouti",
+                "code": "DJ",
+                "genre_m3u_id": "dj.m3u"
+            },
+            {
+                "name": "Dominica",
+                "logo": "dominica",
+                "code": "DM",
+                "genre_m3u_id": "dm.m3u"
+            },
+            {
+                "name": "Dominican Republic",
+                "logo": "dominican-republic",
+                "code": "DO",
+                "genre_m3u_id": "do.m3u"
+            },
+            {
+                "name": "East Timor",
+                "logo": "east-timor",
+                "code": "TL",
+                "genre_m3u_id": "tl.m3u"
+            },
+            {
+                "name": "Ecuador",
+                "logo": "ecuador",
+                "code": "EC",
+                "genre_m3u_id": "ec.m3u"
+            },
+            {
+                "name": "Egypt",
+                "logo": "egypt",
+                "code": "EG",
+                "genre_m3u_id": "eg.m3u"
+            },
+            {
+                "name": "El Salvador",
+                "logo": "el-salvador",
+                "code": "SV",
+                "genre_m3u_id": "sv.m3u"
+            },
+            {
+                "name": "England",
+                "logo": "england",
+                "code": "GB-ENG",
+                "genre_m3u_id": "gb-eng.m3u"
+            },
+            {
+                "name": "Equatorial Guinea",
+                "logo": "equatorial-guinea",
+                "code": "GQ",
+                "genre_m3u_id": "gq.m3u"
+            },
+            {
+                "name": "Eritrea",
+                "logo": "eritrea",
+                "code": "ER",
+                "genre_m3u_id": "er.m3u"
+            },
+            {
+                "name": "Estonia",
+                "logo": "estonia",
+                "code": "EE",
+                "genre_m3u_id": "ee.m3u"
+            },
+            {
+                "name": "Eswatini",
+                "logo": "eswatini",
+                "code": "SZ",
+                "genre_m3u_id": "sz.m3u"
+            },
+            {
+                "name": "Ethiopia",
+                "logo": "ethiopia",
+                "code": "ET",
+                "genre_m3u_id": "et.m3u"
+            },
+            {
+                "name": "Europe",
+                "logo": "europe",
+                "code": "EU"
+            },
+            {
+                "name": "Fiji",
+                "logo": "fiji",
+                "code": "FJ",
+                "genre_m3u_id": "fj.m3u"
+            },
+            {
+                "name": "Finland",
+                "logo": "finland",
+                "code": "FI",
+                "genre_m3u_id": "fi.m3u"
+            },
+            {
+                "name": "France",
+                "logo": "france",
+                "code": "FR",
+                "genre_m3u_id": "fr.m3u"
+            },
+            {
+                "name": "Gabon",
+                "logo": "gabon",
+                "code": "GA",
+                "genre_m3u_id": "ga.m3u"
+            },
+            {
+                "name": "Gambia",
+                "logo": "gambia",
+                "code": "GM",
+                "genre_m3u_id": "gm.m3u"
+            },
+            {
+                "name": "Georgia",
+                "logo": "georgia",
+                "code": "GE",
+                "genre_m3u_id": "ge.m3u"
+            },
+            {
+                "name": "Germany",
+                "logo": "germany",
+                "code": "DE",
+                "genre_m3u_id": "de.m3u"
+            },
+            {
+                "name": "Ghana",
+                "logo": "ghana",
+                "code": "GH",
+                "genre_m3u_id": "gh.m3u"
+            },
+            {
+                "name": "Greece",
+                "logo": "greece",
+                "code": "GR",
+                "genre_m3u_id": "gr.m3u"
+            },
+            {
+                "name": "Grenada",
+                "logo": "grenada",
+                "code": "GD",
+                "genre_m3u_id": "gd.m3u"
+            },
+            {
+                "name": "Guadeloupe",
+                "logo": "guadeloupe",
+                "code": "GP",
+                "genre_m3u_id": "gp.m3u"
+            },
+            {
+                "name": "Guam",
+                "logo": "guam",
+                "code": "GU",
+                "genre_m3u_id": "gu.m3u"
+            },
+            {
+                "name": "Guatemala",
+                "logo": "guatemala",
+                "code": "GT",
+                "genre_m3u_id": "gt.m3u"
+            },
+            {
+                "name": "Guinea",
+                "logo": "guinea",
+                "code": "GN",
+                "genre_m3u_id": "gn.m3u"
+            },
+            {
+                "name": "Guinea-Bissau",
+                "logo": "guinea-bissau",
+                "code": "GW",
+                "genre_m3u_id": "gw.m3u"
+            },
+            {
+                "name": "Guyana",
+                "logo": "guyana",
+                "code": "GY",
+                "genre_m3u_id": "gy.m3u"
+            },
+            {
+                "name": "Haiti",
+                "logo": "haiti",
+                "code": "HT",
+                "genre_m3u_id": "ht.m3u"
+            },
+            {
+                "name": "Honduras",
+                "logo": "honduras",
+                "code": "HN",
+                "genre_m3u_id": "hn.m3u"
+            },
+            {
+                "name": "Hong Kong",
+                "logo": "hong-kong",
+                "code": "HK",
+                "genre_m3u_id": "hk.m3u"
+            },
+            {
+                "name": "Hungary",
+                "logo": "hungary",
+                "code": "HU",
+                "genre_m3u_id": "hu.m3u"
+            },
+            {
+                "name": "Iceland",
+                "logo": "iceland",
+                "code": "IS",
+                "genre_m3u_id": "is.m3u"
+            },
+            {
+                "name": "India",
+                "logo": "india",
+                "code": "IN",
+                "genre_m3u_id": "in.m3u"
+            },
+            {
+                "name": "Indonesia",
+                "logo": "indonesia",
+                "code": "ID",
+                "genre_m3u_id": "id.m3u"
+            },
+            {
+                "name": "Iran",
+                "logo": "iran",
+                "code": "IR",
+                "genre_m3u_id": "ir.m3u"
+            },
+            {
+                "name": "Iraq",
+                "logo": "iraq",
+                "code": "IQ",
+                "genre_m3u_id": "iq.m3u"
+            },
+            {
+                "name": "Ireland",
+                "logo": "ireland",
+                "code": "IE",
+                "genre_m3u_id": "ie.m3u"
+            },
+            {
+                "name": "Israel",
+                "logo": "israel",
+                "code": "IL",
+                "genre_m3u_id": "il.m3u"
+            },
+            {
+                "name": "Italy",
+                "logo": "italy",
+                "code": "IT",
+                "genre_m3u_id": "it.m3u"
+            },
+            {
+                "name": "Jamaica",
+                "logo": "jamaica",
+                "code": "JM",
+                "genre_m3u_id": "jm.m3u"
+            },
+            {
+                "name": "Japan",
+                "logo": "japan",
+                "code": "JP",
+                "genre_m3u_id": "jp.m3u"
+            },
+            {
+                "name": "Jordan",
+                "logo": "jordan",
+                "code": "JO",
+                "genre_m3u_id": "jo.m3u"
+            },
+            {
+                "name": "Kazakhstan",
+                "logo": "kazakhstan",
+                "code": "KZ",
+                "genre_m3u_id": "kz.m3u"
+            },
+            {
+                "name": "Kenya",
+                "logo": "kenya",
+                "code": "KE",
+                "genre_m3u_id": "ke.m3u"
+            },
+            {
+                "name": "Kiribati",
+                "logo": "kiribati",
+                "code": "KI",
+                "genre_m3u_id": "ki.m3u"
+            },
+            {
+                "name": "Kosovo",
+                "logo": "kosovo",
+                "code": "XK",
+                "genre_m3u_id": "xk.m3u"
+            },
+            {
+                "name": "Kuwait",
+                "logo": "kuwait",
+                "code": "KW",
+                "genre_m3u_id": "kw.m3u"
+            },
+            {
+                "name": "Kyrgyzstan",
+                "logo": "kyrgyzstan",
+                "code": "KG",
+                "genre_m3u_id": "kg.m3u"
+            },
+            {
+                "name": "Laos",
+                "logo": "laos",
+                "code": "LA",
+                "genre_m3u_id": "la.m3u"
+            },
+            {
+                "name": "Latvia",
+                "logo": "latvia",
+                "code": "LV",
+                "genre_m3u_id": "lv.m3u"
+            },
+            {
+                "name": "Lebanon",
+                "logo": "lebanon",
+                "code": "LB",
+                "genre_m3u_id": "lb.m3u"
+            },
+            {
+                "name": "Lesotho",
+                "logo": "lesotho",
+                "code": "LS",
+                "genre_m3u_id": "ls.m3u"
+            },
+            {
+                "name": "Liberia",
+                "logo": "liberia",
+                "code": "LR",
+                "genre_m3u_id": "lr.m3u"
+            },
+            {
+                "name": "Libya",
+                "logo": "libya",
+                "code": "LY",
+                "genre_m3u_id": "ly.m3u"
+            },
+            {
+                "name": "Liechtenstein",
+                "logo": "liechtenstein",
+                "code": "LI",
+                "genre_m3u_id": "li.m3u"
+            },
+            {
+                "name": "Lithuania",
+                "logo": "lithuania",
+                "code": "LT",
+                "genre_m3u_id": "lt.m3u"
+            },
+            {
+                "name": "Luxembourg",
+                "logo": "luxembourg",
+                "code": "LU",
+                "genre_m3u_id": "lu.m3u"
+            },
+            {
+                "name": "Macao",
+                "logo": "macao",
+                "code": "MO",
+                "genre_m3u_id": "mo.m3u"
+            },
+            {
+                "name": "Madagascar",
+                "logo": "madagascar",
+                "code": "MG",
+                "genre_m3u_id": "mg.m3u"
+            },
+            {
+                "name": "Malawi",
+                "logo": "malawi",
+                "code": "MW",
+                "genre_m3u_id": "mw.m3u"
+            },
+            {
+                "name": "Malaysia",
+                "logo": "malaysia",
+                "code": "MY",
+                "genre_m3u_id": "my.m3u"
+            },
+            {
+                "name": "Maldives",
+                "logo": "maldives",
+                "code": "MV",
+                "genre_m3u_id": "mv.m3u"
+            },
+            {
+                "name": "Mali",
+                "logo": "mali",
+                "code": "ML",
+                "genre_m3u_id": "ml.m3u"
+            },
+            {
+                "name": "Malta",
+                "logo": "malta",
+                "code": "MT",
+                "genre_m3u_id": "mt.m3u"
+            },
+            {
+                "name": "Marshall Islands",
+                "logo": "marshall-islands",
+                "code": "MH",
+                "genre_m3u_id": "mh.m3u"
+            },
+            {
+                "name": "Mauritania",
+                "logo": "mauritania",
+                "code": "MR",
+                "genre_m3u_id": "mr.m3u"
+            },
+            {
+                "name": "Mauritius",
+                "logo": "mauritius",
+                "code": "MU",
+                "genre_m3u_id": "mu.m3u"
+            },
+            {
+                "name": "Mexico",
+                "logo": "mexico",
+                "code": "MX",
+                "genre_m3u_id": "mx.m3u"
+            },
+            {
+                "name": "Micronesia",
+                "logo": "micronesia",
+                "code": "FM",
+                "genre_m3u_id": "fm.m3u"
+            },
+            {
+                "name": "Moldova",
+                "logo": "moldova",
+                "code": "MD",
+                "genre_m3u_id": "md.m3u"
+            },
+            {
+                "name": "Monaco",
+                "logo": "monaco",
+                "code": "MC",
+                "genre_m3u_id": "mc.m3u"
+            },
+            {
+                "name": "Mongolia",
+                "logo": "mongolia",
+                "code": "MN",
+                "genre_m3u_id": "mn.m3u"
+            },
+            {
+                "name": "Montenegro",
+                "logo": "montenegro",
+                "code": "ME",
+                "genre_m3u_id": "me.m3u"
+            },
+            {
+                "name": "Morocco",
+                "logo": "morocco",
+                "code": "MA",
+                "genre_m3u_id": "ma.m3u"
+            },
+            {
+                "name": "Mozambique",
+                "logo": "mozambique",
+                "code": "MZ",
+                "genre_m3u_id": "mz.m3u"
+            },
+            {
+                "name": "Myanmar",
+                "logo": "myanmar",
+                "code": "MM",
+                "genre_m3u_id": "mm.m3u"
+            },
+            {
+                "name": "Namibia",
+                "logo": "namibia",
+                "code": "NA",
+                "genre_m3u_id": "na.m3u"
+            },
+            {
+                "name": "Nauru",
+                "logo": "nauru",
+                "code": "NR",
+                "genre_m3u_id": "nr.m3u"
+            },
+            {
+                "name": "Nepal",
+                "logo": "nepal",
+                "code": "NP",
+                "genre_m3u_id": "np.m3u"
+            },
+            {
+                "name": "Netherlands",
+                "logo": "netherlands",
+                "code": "NL",
+                "genre_m3u_id": "nl.m3u"
+            },
+            {
+                "name": "New Caledonia",
+                "logo": "new-caledonia",
+                "code": "NC",
+                "genre_m3u_id": "nc.m3u"
+            },
+            {
+                "name": "New Zealand",
+                "logo": "new-zealand",
+                "code": "NZ",
+                "genre_m3u_id": "nz.m3u"
+            },
+            {
+                "name": "Nicaragua",
+                "logo": "nicaragua",
+                "code": "NI",
+                "genre_m3u_id": "ni.m3u"
+            },
+            {
+                "name": "Niger",
+                "logo": "niger",
+                "code": "NE",
+                "genre_m3u_id": "ne.m3u"
+            },
+            {
+                "name": "Nigeria",
+                "logo": "nigeria",
+                "code": "NG",
+                "genre_m3u_id": "ng.m3u"
+            },
+            {
+                "name": "Niue",
+                "logo": "niue",
+                "code": "NU",
+                "genre_m3u_id": "nu.m3u"
+            },
+            {
+                "name": "North Korea",
+                "logo": "north-korea",
+                "code": "KP",
+                "genre_m3u_id": "kp.m3u"
+            },
+            {
+                "name": "North Macedonia",
+                "logo": "north-macedonia",
+                "code": "MK",
+                "genre_m3u_id": "mk.m3u"
+            },
+            {
+                "name": "Northern Ireland",
+                "logo": "northern-ireland",
+                "code": "GB-NIR",
+                "genre_m3u_id": "gb-nir.m3u"
+            },
+            {
+                "name": "Northern Mariana Islands",
+                "logo": "northern-mariana-islands",
+                "code": "MP",
+                "genre_m3u_id": "mp.m3u"
+            },
+            {
+                "name": "Norway",
+                "logo": "norway",
+                "code": "NO",
+                "genre_m3u_id": "no.m3u"
+            },
+            {
+                "name": "Oman",
+                "logo": "oman",
+                "code": "OM",
+                "genre_m3u_id": "om.m3u"
+            },
+            {
+                "name": "Pakistan",
+                "logo": "pakistan",
+                "code": "PK",
+                "genre_m3u_id": "pk.m3u"
+            },
+            {
+                "name": "Palau",
+                "logo": "palau",
+                "code": "PW",
+                "genre_m3u_id": "pw.m3u"
+            },
+            {
+                "name": "Palestine",
+                "logo": "palestine",
+                "code": "PS",
+                "genre_m3u_id": "ps.m3u"
+            },
+            {
+                "name": "Panama",
+                "logo": "panama",
+                "code": "PA",
+                "genre_m3u_id": "pa.m3u"
+            },
+            {
+                "name": "Papua New Guinea",
+                "logo": "papua-new-guinea",
+                "code": "PG",
+                "genre_m3u_id": "pg.m3u"
+            },
+            {
+                "name": "Paraguay",
+                "logo": "paraguay",
+                "code": "PY",
+                "genre_m3u_id": "py.m3u"
+            },
+            {
+                "name": "Peru",
+                "logo": "peru",
+                "code": "PE",
+                "genre_m3u_id": "pe.m3u"
+            },
+            {
+                "name": "Philippines",
+                "logo": "philippines",
+                "code": "PH",
+                "genre_m3u_id": "ph.m3u"
+            },
+            {
+                "name": "Poland",
+                "logo": "poland",
+                "code": "PL",
+                "genre_m3u_id": "pl.m3u"
+            },
+            {
+                "name": "Portugal",
+                "logo": "portugal",
+                "code": "PT",
+                "genre_m3u_id": "pt.m3u"
+            },
+            {
+                "name": "Puerto Rico",
+                "logo": "puerto-rico",
+                "code": "PR",
+                "genre_m3u_id": "pr.m3u"
+            },
+            {
+                "name": "Qatar",
+                "logo": "qatar",
+                "code": "QA",
+                "genre_m3u_id": "qa.m3u"
+            },
+            {
+                "name": "Romania",
+                "logo": "romania",
+                "code": "RO",
+                "genre_m3u_id": "ro.m3u"
+            },
+            {
+                "name": "Russia",
+                "logo": "russia",
+                "code": "RU",
+                "genre_m3u_id": "ru.m3u"
+            },
+            {
+                "name": "Rwanda",
+                "logo": "rwanda",
+                "code": "RW",
+                "genre_m3u_id": "rw.m3u"
+            },
+            {
+                "name": "Saint Kitts and Nevis",
+                "logo": "saint-kitts-and-nevis",
+                "code": "KN",
+                "genre_m3u_id": "kn.m3u"
+            },
+            {
+                "name": "Saint Lucia",
+                "logo": "saint-lucia",
+                "code": "LC",
+                "genre_m3u_id": "lc.m3u"
+            },
+            {
+                "name": "Saint Vincent and the Grenadines",
+                "logo": "saint-vincent-and-the-grenadines",
+                "code": "VC",
+                "genre_m3u_id": "vc.m3u"
+            },
+            {
+                "name": "Samoa",
+                "logo": "samoa",
+                "code": "WS",
+                "genre_m3u_id": "ws.m3u"
+            },
+            {
+                "name": "San Marino",
+                "logo": "san-marino",
+                "code": "SM",
+                "genre_m3u_id": "sm.m3u"
+            },
+            {
+                "name": "Sao Tome and Principe",
+                "logo": "sao-tome-and-principe",
+                "code": "ST",
+                "genre_m3u_id": "st.m3u"
+            },
+            {
+                "name": "Saudi Arabia",
+                "logo": "saudi-arabia",
+                "code": "SA",
+                "genre_m3u_id": "sa.m3u"
+            },
+            {
+                "name": "Scotland",
+                "logo": "scotland",
+                "code": "GB-SCT",
+                "genre_m3u_id": "gb-sct.m3u"
+            },
+            {
+                "name": "Senegal",
+                "logo": "senegal",
+                "code": "SN",
+                "genre_m3u_id": "sn.m3u"
+            },
+            {
+                "name": "Serbia",
+                "logo": "serbia",
+                "code": "RS",
+                "genre_m3u_id": "rs.m3u"
+            },
+            {
+                "name": "Seychelles",
+                "logo": "seychelles",
+                "code": "SC",
+                "genre_m3u_id": "sc.m3u"
+            },
+            {
+                "name": "Sierra Leone",
+                "logo": "sierra-leone",
+                "code": "SL",
+                "genre_m3u_id": "sl.m3u"
+            },
+            {
+                "name": "Singapore",
+                "logo": "singapore",
+                "code": "SG",
+                "genre_m3u_id": "sg.m3u"
+            },
+            {
+                "name": "Slovakia",
+                "logo": "slovakia",
+                "code": "SK",
+                "genre_m3u_id": "sk.m3u"
+            },
+            {
+                "name": "Slovenia",
+                "logo": "slovenia",
+                "code": "SI",
+                "genre_m3u_id": "si.m3u"
+            },
+            {
+                "name": "Solomon Islands",
+                "logo": "solomon-islands",
+                "code": "SB",
+                "genre_m3u_id": "sb.m3u"
+            },
+            {
+                "name": "Somalia",
+                "logo": "somalia",
+                "code": "SO",
+                "genre_m3u_id": "so.m3u"
+            },
+            {
+                "name": "South Africa",
+                "logo": "south-africa",
+                "code": "ZA",
+                "genre_m3u_id": "za.m3u"
+            },
+            {
+                "name": "South Korea",
+                "logo": "south-korea",
+                "code": "KR",
+                "genre_m3u_id": "kr.m3u"
+            },
+            {
+                "name": "South Sudan",
+                "logo": "south-sudan",
+                "code": "SS",
+                "genre_m3u_id": "ss.m3u"
+            },
+            {
+                "name": "Spain",
+                "logo": "spain",
+                "code": "ES",
+                "genre_m3u_id": "es.m3u"
+            },
+            {
+                "name": "Sri Lanka",
+                "logo": "sri-lanka",
+                "code": "LK",
+                "genre_m3u_id": "lk.m3u"
+            },
+            {
+                "name": "St. Eustatius",
+                "logo": "st-eustatius",
+                "code": "BQ",
+                "genre_m3u_id": "bq.m3u"
+            },
+            {
+                "name": "St. Martin",
+                "logo": "st-martin",
+                "code": "MF",
+                "genre_m3u_id": "mf.m3u"
+            },
+            {
+                "name": "Sudan",
+                "logo": "sudan",
+                "code": "SD",
+                "genre_m3u_id": "sd.m3u"
+            },
+            {
+                "name": "Suriname",
+                "logo": "suriname",
+                "code": "SR",
+                "genre_m3u_id": "sr.m3u"
+            },
+            {
+                "name": "Sweden",
+                "logo": "sweden",
+                "code": "SE",
+                "genre_m3u_id": "se.m3u"
+            },
+            {
+                "name": "Switzerland",
+                "logo": "switzerland",
+                "code": "CH",
+                "genre_m3u_id": "ch.m3u"
+            },
+            {
+                "name": "Syria",
+                "logo": "syria",
+                "code": "SY",
+                "genre_m3u_id": "sy.m3u"
+            },
+            {
+                "name": "Taiwan",
+                "logo": "taiwan",
+                "code": "TW",
+                "genre_m3u_id": "tw.m3u"
+            },
+            {
+                "name": "Tajikistan",
+                "logo": "tajikistan",
+                "code": "TJ",
+                "genre_m3u_id": "tj.m3u"
+            },
+            {
+                "name": "Tanzania",
+                "logo": "tanzania",
+                "code": "TZ",
+                "genre_m3u_id": "tz.m3u"
+            },
+            {
+                "name": "Thailand",
+                "logo": "thailand",
+                "code": "TH",
+                "genre_m3u_id": "th.m3u"
+            },
+            {
+                "name": "Togo",
+                "logo": "togo",
+                "code": "TG",
+                "genre_m3u_id": "tg.m3u"
+            },
+            {
+                "name": "Tonga",
+                "logo": "tonga",
+                "code": "TO",
+                "genre_m3u_id": "to.m3u"
+            },
+            {
+                "name": "Trinidad and Tobago",
+                "logo": "trinidad-and-tobago",
+                "code": "TT",
+                "genre_m3u_id": "tt.m3u"
+            },
+            {
+                "name": "Tunisia",
+                "logo": "tunisia",
+                "code": "TN",
+                "genre_m3u_id": "tn.m3u"
+            },
+            {
+                "name": "Turkey",
+                "logo": "turkey",
+                "code": "TR",
+                "genre_m3u_id": "tr.m3u"
+            },
+            {
+                "name": "Turkmenistan",
+                "logo": "turkmenistan",
+                "code": "TM",
+                "genre_m3u_id": "tm.m3u"
+            },
+            {
+                "name": "Tuvalu",
+                "logo": "tuvalu",
+                "code": "TV",
+                "genre_m3u_id": "tv.m3u"
+            },
+            {
+                "name": "Uganda",
+                "logo": "uganda",
+                "code": "UG",
+                "genre_m3u_id": "ug.m3u"
+            },
+            {
+                "name": "Ukraine",
+                "logo": "ukraine",
+                "code": "UA",
+                "genre_m3u_id": "ua.m3u"
+            },
+            {
+                "name": "United Arab Emirates",
+                "logo": "united-arab-emirates",
+                "code": "AE",
+                "genre_m3u_id": "ae.m3u"
+            },
+            {
+                "name": "United Kingdom",
+                "logo": "united-kingdom",
+                "code": "GB",
+                "genre_m3u_id": "gb.m3u"
+            },
+            {
+                "name": "United States",
+                "logo": "united-states",
+                "code": "US",
+                "genre_m3u_id": "us.m3u"
+            },
+            {
+                "name": "Uruguay",
+                "logo": "uruguay",
+                "code": "UY",
+                "genre_m3u_id": "uy.m3u"
+            },
+            {
+                "name": "Uzbekistan",
+                "logo": "uzbekistan",
+                "code": "UZ",
+                "genre_m3u_id": "uz.m3u"
+            },
+            {
+                "name": "Vanuatu",
+                "logo": "vanuatu",
+                "code": "VU",
+                "genre_m3u_id": "vu.m3u"
+            },
+            {
+                "name": "Vatican City",
+                "logo": "vatican-city",
+                "code": "VA",
+                "genre_m3u_id": "va.m3u"
+            },
+            {
+                "name": "Venezuela",
+                "logo": "venezuela",
+                "code": "VE",
+                "genre_m3u_id": "ve.m3u"
+            },
+            {
+                "name": "Vietnam",
+                "logo": "vietnam",
+                "code": "VN",
+                "genre_m3u_id": "vn.m3u"
+            },
+            {
+                "name": "Wales",
+                "logo": "wales",
+                "code": "GB-WLS",
+                "genre_m3u_id": "gb-wls.m3u"
+            },
+            {
+                "name": "Yemen",
+                "logo": "yemen",
+                "code": "YE",
+                "genre_m3u_id": "ye.m3u"
+            },
+            {
+                "name": "Zambia",
+                "logo": "zambia",
+                "code": "ZM",
+                "genre_m3u_id": "zm.m3u"
+            },
+            {
+                "name": "Zimbabwe",
+                "logo": "zimbabwe",
+                "code": "ZW",
+                "genre_m3u_id": "zw.m3u"
+            }
+        ]
+    },
+    "categories": {
+        "genre_m3u_link": "https://raw.githubusercontent.com/laurentjuma/m3u-radio-music-playlists/main/you_radio/m3u/stations/",
+        "logo_link": "https://manager.uber.radio/static/uploads/",
+        "genres": []
+    }
+}
