@@ -1246,7 +1246,7 @@
                 "name": "Wales",
                 "logo": "wales",
                 "code": "GB-WLS",
-                "genre_m3u_id": "gb-wls.m3u"
+                "genre_m3u_id": "https://iptv-org.github.io/iptv/subdivisions/gb-wls.m3u"
             },
             {
                 "name": "Yemen",
