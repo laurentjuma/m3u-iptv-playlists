@@ -5,12 +5,6 @@
         "genre_m3u_link": "https://iptv-org.github.io/iptv/countries/",
         "genres": [
             {
-                "name": "Afghanistan",
-                "logo": "afghanistan",
-                "code": "AF",
-                "genre_m3u_id": "af.m3u"
-            },
-            {
                 "name": "Albania",
                 "logo": "albania",
                 "code": "AL",
@@ -501,18 +495,6 @@
                 "genre_m3u_id": "id.m3u"
             },
             {
-                "name": "Iran",
-                "logo": "iran",
-                "code": "IR",
-                "genre_m3u_id": "ir.m3u"
-            },
-            {
-                "name": "Iraq",
-                "logo": "iraq",
-                "code": "IQ",
-                "genre_m3u_id": "iq.m3u"
-            },
-            {
                 "name": "Ireland",
                 "logo": "ireland",
                 "code": "IE",
@@ -860,12 +842,6 @@
                 "genre_m3u_id": "pw.m3u"
             },
             {
-                "name": "Palestine",
-                "logo": "palestine",
-                "code": "PS",
-                "genre_m3u_id": "ps.m3u"
-            },
-            {
                 "name": "Panama",
                 "logo": "panama",
                 "code": "PA",
@@ -1033,12 +1009,6 @@
                 "genre_m3u_id": "sb.m3u"
             },
             {
-                "name": "Somalia",
-                "logo": "somalia",
-                "code": "SO",
-                "genre_m3u_id": "so.m3u"
-            },
-            {
                 "name": "South Africa",
                 "logo": "south-africa",
                 "code": "ZA",
@@ -1081,12 +1051,6 @@
                 "genre_m3u_id": "mf.m3u"
             },
             {
-                "name": "Sudan",
-                "logo": "sudan",
-                "code": "SD",
-                "genre_m3u_id": "sd.m3u"
-            },
-            {
                 "name": "Suriname",
                 "logo": "suriname",
                 "code": "SR",
@@ -1103,12 +1067,6 @@
                 "logo": "switzerland",
                 "code": "CH",
                 "genre_m3u_id": "ch.m3u"
-            },
-            {
-                "name": "Syria",
-                "logo": "syria",
-                "code": "SY",
-                "genre_m3u_id": "sy.m3u"
             },
             {
                 "name": "Taiwan",
@@ -1247,12 +1205,6 @@
                 "logo": "wales",
                 "code": "GB-WLS",
                 "genre_m3u_id": "https://iptv-org.github.io/iptv/subdivisions/gb-wls.m3u"
-            },
-            {
-                "name": "Yemen",
-                "logo": "yemen",
-                "code": "YE",
-                "genre_m3u_id": "ye.m3u"
             },
             {
                 "name": "Zambia",
